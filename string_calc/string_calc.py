@@ -1,0 +1,2 @@
+class StringCalc:
+    pass
