@@ -3,6 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# JetBrains IDE
+.idea/
 # User-specific files
 *.rsuser
 *.suo
@@ -116,6 +118,8 @@ ipch/
 # Visual Studio Trace Files
 *.e2e
 
+# Visual Studio Code
+.vscode/
 # TFS 2012 Local Workspace
 $tf/
 
@@ -348,3 +352,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Python virtual environment
+venv/
