@@ -1,2 +1,2 @@
 def converter( number ):
-    return None
+    pass

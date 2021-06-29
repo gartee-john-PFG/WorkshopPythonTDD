@@ -1,5 +1,4 @@
-import unittest
 from string_calc import StringCalc
 
-class TestStringCalc(unittest.TestCase):
+def passing_empty_string_returns_zero():
     pass
