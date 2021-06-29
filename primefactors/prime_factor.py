@@ -1,2 +1,2 @@
-class PrimeFactors:
+def prime_factor(number):
     pass

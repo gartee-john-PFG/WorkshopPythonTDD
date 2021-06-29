@@ -1,5 +1,4 @@
-import unittest
-from prime_factor import PrimeFactors
+from prime_factor import *
 
-class TestPrimeFactors(unittest.TestCase):
+def test_prime_factor():
     pass

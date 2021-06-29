@@ -1,5 +1,4 @@
-import unittest
-from fizzbuzz.fizz_buzz import FizzBuzz
+from fizz_buzz import *
 
-class FizzBuzzTests(unittest.TestCase):
-    pass
+def test_sending_one_returns_empty_list():
+    assert "1" == fizz_buzz(1)

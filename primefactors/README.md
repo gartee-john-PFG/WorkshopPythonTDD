@@ -4,7 +4,7 @@ Write an algorithm that breaks down any positive integer into a list of its prim
 
 definition: A prime number is an integer greater than 1 that has exactly two prime factors: 1 and itself.
 
-* 1 is not a prime number
+* 1 returns []
 * 2 returns [2]
 * 3 returns [3]
 * 4 returns [2, 2]
@@ -20,6 +20,6 @@ definition: A prime number is an integer greater than 1 that has exactly two pri
 * 210 returns [2, 3, 5, 7]
 * etc.
 
-Surprisingly, when refactored correctly, this algorighm consists of about three lines of code.
+Surprisingly, when refactored correctly, this algorighm consists of very few lines of code.
 
 See if you can TDD your way to that result!
