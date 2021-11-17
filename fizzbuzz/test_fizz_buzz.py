@@ -1,4 +1,4 @@
-from fizz_buzz import *
+# from fizz_buzz import *
 # think (what code do I want to write?)
 # red (use description from above and fail for right reason)
 # green (pass test using what we wanted to write above)
